@@ -1,0 +1,10 @@
+Assignment name  : aff_z
+Expected files   : aff_z.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Ecrire un programme qui prend en parametre une chaine de caracteres
+et qui affiche sur la sortie standard le premier caractere 'z'
+rencontre suivi de '\n'. Si aucun 'z' n'est rencontre dans la chaine,
+le programme affiche 'z' suivi '\n'. Si il n'y a pas de parametre
+alors le programme affiche 'z' suivie '\n'.

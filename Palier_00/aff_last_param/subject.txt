@@ -1,0 +1,18 @@
+Assignment name  : aff_last_param
+Expected files   : aff_last_param.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Ecrire un programme qui prends des chaines de char en parametre
+et qui affiche le dernier parametre sur la sortie standard.
+Si le nombre de parametres transmit est inferieur a 1,
+le prgramme n'affiche qu'un newline.
+
+Exemple :
+
+$> ./aff_last_param "zaz" "mange" "des" "chats" | cat -e
+chats$
+$> ./aff_last_param "j'aime le savon" | cat -e
+j'aime le savon$
+$> ./aff_last_param
+$

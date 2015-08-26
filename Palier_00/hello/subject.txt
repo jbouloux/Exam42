@@ -1,0 +1,6 @@
+Assignment name  : Hello
+Expected files   : hello.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+
+Ecrire un programme qui affiche "Hello World!" sur la sortie standard.
